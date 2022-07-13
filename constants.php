@@ -1,0 +1,1 @@
+<!--Constants are like variables but they cannot be changed-->
