@@ -17,6 +17,7 @@ return new class extends Migration
             $table->id();
             $table->string("std_name");
             $table->string("std_course");
+            $table->string("std_rank");
             $table->timestamps();
         });
     }
